@@ -29,6 +29,4 @@ Execution
 Results
 
 The final results of the project, including visualizations and model evaluation metrics, can be found in the reports directory.
-Contact
 
-For any questions or concerns, please contact me

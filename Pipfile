@@ -15,6 +15,9 @@ dash = "*"
 beautifulsoup4 = "*"
 cufflinks = "*"
 nbformat = "*"
+notebook = "*"
+jupyter-core = "*"
+jupyter-nbextensions-configurator = "*"
 
 [dev-packages]
 ipykernel = "*"
